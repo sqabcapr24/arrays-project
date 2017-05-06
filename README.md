@@ -1,7 +1,6 @@
-# Basic Project
-## Basic Project Structure
+# Arrays Project
 
-*Default Structure for A Basic Project*
+*Project which demonstrates arrays*
 
 **Java 8**
 
